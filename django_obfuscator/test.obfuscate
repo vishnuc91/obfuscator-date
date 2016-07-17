@@ -1,0 +1,3 @@
+testobfuscator,MyModel,aname,name
+testobfuscator,MyModel,anint,zero 
+testobfuscator,MyModel,astring,randomstring
